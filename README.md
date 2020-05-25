@@ -3,10 +3,10 @@ A command line utility built with python that checks the collection of character
 It uses the first four characters of the SHA1 hashed password that you build, to find out if the have been pawned.
 The password taken as input remains safe on your own system.
 
-#Built with:
+# Built with:
 Python.
 
-#Libraries used:
+# Libraries used:
 * requests
 * hashlib
 * sys
